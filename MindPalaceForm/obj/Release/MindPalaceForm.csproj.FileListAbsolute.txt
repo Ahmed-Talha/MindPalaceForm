@@ -1,0 +1,9 @@
+C:\Users\dev-w\Documents\Visual Studio 2013\Projects\MindPalaceForm\MindPalaceForm\bin\Release\MindPalaceForm.exe.config
+C:\Users\dev-w\Documents\Visual Studio 2013\Projects\MindPalaceForm\MindPalaceForm\bin\Release\MindPalaceForm.exe
+C:\Users\dev-w\Documents\Visual Studio 2013\Projects\MindPalaceForm\MindPalaceForm\bin\Release\MindPalaceForm.pdb
+C:\Users\dev-w\Documents\Visual Studio 2013\Projects\MindPalaceForm\MindPalaceForm\obj\Release\MindPalaceForm.Form1.resources
+C:\Users\dev-w\Documents\Visual Studio 2013\Projects\MindPalaceForm\MindPalaceForm\obj\Release\MindPalaceForm.Properties.Resources.resources
+C:\Users\dev-w\Documents\Visual Studio 2013\Projects\MindPalaceForm\MindPalaceForm\obj\Release\MindPalaceForm.csproj.GenerateResource.Cache
+C:\Users\dev-w\Documents\Visual Studio 2013\Projects\MindPalaceForm\MindPalaceForm\obj\Release\MindPalaceForm.exe
+C:\Users\dev-w\Documents\Visual Studio 2013\Projects\MindPalaceForm\MindPalaceForm\obj\Release\MindPalaceForm.pdb
+C:\Users\dev-w\Documents\Visual Studio 2013\Projects\MindPalaceForm\MindPalaceForm\obj\Release\MindPalaceForm.csprojResolveAssemblyReference.cache
